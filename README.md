@@ -181,18 +181,6 @@ while (1)
 
 ---
 
-## Project Structure
-
-```text
-├── Core/
-├── Drivers/
-├── README.md
-├── STM32_Superloop.ioc
-└── main.c
-```
-
----
-
 ## Learning Outcomes
 
 - Understanding superloop architecture
