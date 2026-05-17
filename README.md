@@ -1,5 +1,3 @@
-# STM32-Superloop-Based-Embedded-System
-Superloop-based embedded system on STM32F446RE demonstrating cooperative multitasking with LED blinking, push button handling, and IR sensor data acquisition using non-blocking software timers and ADC.
 # STM32 Superloop-Based Embedded System
 
 A cooperative multitasking embedded system implemented on the STM32F446RE Nucleo Board using a superloop architecture.  
@@ -219,9 +217,3 @@ while (1)
 
 **Ayush Jangra**  
 ECE Student | Chitkara University
-
----
-
-## License
-
-This project is created for educational and academic purposes.
